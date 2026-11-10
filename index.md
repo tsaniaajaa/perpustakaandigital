@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Nyayian Hujan](ebook/Nyayian%20Hujan.pdf) – Mukesh Tamrakar (2024)
 9. [Transportasi](ebook/Transportasi.pdf) – Bookbot (2024)
 10. [Monster Kakak](ebook/Monster%20Kakak.pdf) – Teguh Purwantari (2024)
+11. [Resume UGC](ebook/Resume%20UGC.pdf) – Teguh Purwantari (2024)
 
 Powered by GitHub Pages
